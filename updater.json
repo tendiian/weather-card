@@ -1,0 +1,9 @@
+{
+  "weather-card": {
+    "updated_at": "2019-01-23",
+    "version": "1.2.0",
+    "remote_location": "https://raw.githubusercontent.com/tendiian/weather-card/master/weather-card.js",
+    "visit_repo": "https://github.com/tendiian/weather-card",
+    "changelog": "https://github.com/tendiian/weather-card/blob/master/weather-card/changelog.md"
+  }
+}
